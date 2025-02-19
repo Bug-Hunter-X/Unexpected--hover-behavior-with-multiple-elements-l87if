@@ -1,0 +1,9 @@
+/* bugSolution.css */
+
+/* Correctly applies the hover effect to all elements */
+li:hover { /*Example of using a more specific selector*/
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+/* Other CSS rules */
